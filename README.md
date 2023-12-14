@@ -1,7 +1,7 @@
 # e-tailer-Sales-Analysis
-Analysis of Sales of an e-tailer using Dynamic Excel Dashboards
+Revenue Analysis of e-tailer Using Dynamic Excel Dashboard
 
-**Objective:** Use Data to Create an Annual Sales Report, so as to understand Customers in order to improve Sales in next FY.
+**Objective:** Use Data to Create an Annual Sales/Revenue Report, so as to understand Customers in order to improve Sales in next FY.
 
 **Tabs in Excel:**
 1. store_data:- Raw Data
